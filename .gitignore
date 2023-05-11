@@ -1,2 +1,3 @@
 logs/*.log
 !logs/sempl.log
+!logs/*.php
